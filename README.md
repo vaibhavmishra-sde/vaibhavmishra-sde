@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm Vaibhav 👋</h1>
 
-<h3 align="center">Backend Engineer • AI Tooling • Agent Design</h3>
+<h3 align="center">Software engineer</h3>
 
 <p align="center">
   Building production-grade AI systems — currently working on a multi-phase <b>Market Research Agent</b> pipeline.
