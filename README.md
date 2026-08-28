@@ -110,8 +110,8 @@ A technology-driven emergency response concept using location-based information.
 │  📱 Flutter Development                                   │
 │  🔐 Authentication & APIs                                 │
 │  🧩 Object Oriented Programming                           │
-│  🧠 Problem Solving                                      │
-│  📊 Data Structures & Algorithms                          │
+│  🧠 Problem Solving                                       │
+│  📊 Data Structures & Algorithms                         │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 📊 [ GITHUB_ANALYTICS ]
