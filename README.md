@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=VAIBHAV+MISHRA...;SOFTWARE+ENGINEER+IN+PROGRESS;BUILDING+FULL+STACK+APPLICATIONS;EXPLORING+AI%2FML+SYSTEMS" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=VAIBHAV+MISHRA...;SOFTWARE+ENGINEER+IN+PROGRESS;BUILDING+FULL+STACK+APPLICATIONS;EXPLORING+Full%2FStack" />
 
 <br/>
 
