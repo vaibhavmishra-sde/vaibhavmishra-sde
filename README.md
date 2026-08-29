@@ -119,8 +119,7 @@ A technology-driven emergency response concept using location-based information.
 🐍 [ CONTRIBUTION_ACTIVITY ]
 <div align="center"> <img src="https://raw.githubusercontent.com/vaibhavmishra-sde/VaibhavMishra-analytics/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/VaibhavMishra-analytics/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 🎯 [ CURRENT_MISSION ]
