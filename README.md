@@ -115,7 +115,7 @@ A technology-driven emergency response concept using location-based information.
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 📊 [ GITHUB_ANALYTICS ]
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmishra-sde&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=81E6D9&icon_color=00F7FF" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmishra-sde&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmishra-sde&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=81E6D9" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmishra-sde&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=81E6D9&icon_color=00F7FF" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmishra-sde&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmishra-sde&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=blue" /> </div>
 🐍 [ CONTRIBUTION_ACTIVITY ]
 <img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 <div align="center">
