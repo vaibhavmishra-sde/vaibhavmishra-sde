@@ -127,7 +127,6 @@ A technology-driven emergency response concept using location-based information.
 [✓] Build real-world projects
 [✓] Learn backend development
 [✓] Work with databases
-[✓] Explore AI/ML
 [→] Improve Data Structures & Algorithms
 [→] Build stronger Full Stack projects
 [→] Contribute to Open Source
