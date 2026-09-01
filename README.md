@@ -54,7 +54,7 @@ class VaibhavMishra:
 
 ## `[ FEATURED_PROJECTS ]`
 
-### 🔹 BalKavach AI
+ 🔹 BalKavach AI
 
 AI-powered child safety and parental monitoring application.
 
@@ -71,7 +71,7 @@ AI-powered child safety and parental monitoring application.
 
 Python · FastAPI · PostgreSQL · Flutter · Dart · NLP · JWT
 
-### 🔹 Smart Railway Operations Platform
+ 🔹 Smart Railway Operations Platform
 
 A smart platform designed to improve railway operations and passenger services.
 
@@ -86,7 +86,7 @@ A smart platform designed to improve railway operations and passenger services.
 
 Python · SQL · Backend Development · Data Analysis
 
-### 🔹 Smart City Emergency Response System
+ 🔹 Smart City Emergency Response System
 
 A technology-driven emergency response concept using location-based information.
 
