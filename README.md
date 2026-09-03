@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=VAIBHAV+MISHRA...;SOFTWARE+ENGINEER+IN+PROGRESS;BUILDING+FULL+STACK+APPLICATIONS;EXPLORING+Full%2FStack" />
 
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25%">
