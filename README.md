@@ -18,7 +18,7 @@
 ██║   ██║██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝      ██║╚██╔╝██║██║╚════██║██╔══██║██╔══██╗██╔══██║
 ╚██  ██╔╝██║  ██║██║███████║██║  ██║██║  ██║ ╚████╔╝       ██║ ╚═╝ ██║██║███████║██║  ██║██║  ██║██║  ██║
  ╚═██║═══╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝        ╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                                                                                                                         
-              SOFTWARE DEVELOPER
+                                              SOFTWARE DEVELOPER
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIALIZING+DEVELOPER+PROFILE...;LOADING+VAIBHAV_MISHRA_DATA...;SYSTEM+READY" />
