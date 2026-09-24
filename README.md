@@ -10,7 +10,7 @@
 
 # '[ IDENTITY_VERIFIED _::  VAIBHAV MISHRA ]`
 
-### ⚡ BCA Student | Software Developer | Full Stack & AI Enthusiast ⚡
+### ⚡ BCA Student | Software Developer | Full Stack & CLOUD  ⚡
 ```
 ██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗      ███╗   ███╗██╗███████╗██╗  ██╗██████╗  █████╗ 
 ██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║      ████╗ ████║██║██╔════╝██║  ██║██╔══██╗██╔══██╗
