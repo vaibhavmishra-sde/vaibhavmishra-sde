@@ -176,7 +176,6 @@ A technology-driven emergency response concept using location-based information.
 - [ ] Become a professional Software Developer
 
 ## `[ CONNECT_WITH_ME ]`
-
 <div align="center">
 <a href="https://github.com/vaibhavmishra-sde"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
 <a href="https://linkedin.com/in/vaibhav-mishra-369488322"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
