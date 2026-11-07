@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f00,50:f08030,100:ffcc33&height=220&section=header&text=VAIBHAV%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-<!-- Add your Ash Ketchum image to the repo at assets/ash-ketchum.png -->
-<img src="./assets/ash-ketchum.png" height="150" alt="Ash Ketchum" />
+<!-- Upload your Ash Ketchum image to this repo at assets/ash-ketchum.png (or paste any direct image URL in src below) -->
+<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/ash-ketchum.png" height="150" alt="Ash Ketchum" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="130" alt="Charizard" />
 
