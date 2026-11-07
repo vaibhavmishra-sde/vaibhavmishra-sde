@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f00,50:f08030,100:ffcc33&height=220&section=header&text=VAIBHAV%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%C2%B7%20Dashboards%20%C2%B7%20Full%20Stack%20%7C%20Trainer%20Type%3A%20Charizard&descAlignY=58&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f00,50:f08030,100:ffcc33&height=220&section=header&text=VAIBHAV%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
+<!-- Add your Ash Ketchum image to the repo at assets/ash-ketchum.png -->
+<img src="./assets/ash-ketchum.png" height="150" alt="Ash Ketchum" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="130" alt="Charizard" />
 
 <a href="https://github.com/vaibhavmishra-sde">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F08030&center=true&vCenter=true&width=850&lines=Aspiring+SDE+%C2%B7+Data+%26+Analytics+Builder;Turning+raw+data+into+dashboards+that+burn+bright+%F0%9F%94%A5;AI+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+TypeScript;Currently+evolving%3A+Charmander+%E2%86%92+Charmeleon+%E2%86%92+Charizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F08030&center=true&vCenter=true&width=850&lines=Software+Developer;Building+clean%2C+fast+and+reliable+software+%F0%9F%94%A5;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+SQL;Gotta+ship+%27em+all" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,21 +23,16 @@
 
 ### 📍 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="210" alt="Charizard" />
+I'm a software developer who learns by building. I enjoy taking an idea from a rough sketch to something that actually runs: designing the logic, writing the code, and polishing it until it's ready to show off. My projects range from an AI-powered child-safety platform to a personal portfolio site and SQL-backed data tools, and every one of them taught me something new about writing better software.
 
-I'm an aspiring software developer who spends most of my time building things rather than just reading about them. I'm drawn to the point where **data meets product**: turning raw numbers into dashboards people can actually use, and turning ideas into working platforms like an AI-powered child-safety tool. I like taking a project from a rough idea all the way to something that runs and can be shown off.
+Like a trainer raising a Charmander, I'm focused on steady growth: one project, one bug fix and one level at a time.
 
-Like Charizard, I'm a work in progress on the way to my final form: every project is one more level gained.
+**Currently focused on:** full-stack development with TypeScript, working with databases (SQL and PostgreSQL), and strengthening DSA and system design for SDE roles.
 
-**Currently focused on:** Data analytics (SQL, PostgreSQL, Power BI), full-stack development with TypeScript, and strengthening DSA for SDE roles.
-
-<br clear="right"/>
-
-| 🔥 Data & Analytics | 🪽 Frontend | 🐉 Backend & Tools | 💥 Engineering |
+| 🔥 Languages | 🪽 Frontend | 🐉 Backend | 🛠️ Tools & Fundamentals |
 | :--- | :--- | :--- | :--- |
-| SQL · PostgreSQL | HTML · CSS | Node.js · REST APIs | DSA · Problem Solving |
-| Power BI · DAX | JavaScript · TypeScript | Git · GitHub | Data Modeling |
-| Excel · Pareto & Trend Analysis | React | VS Code | Dashboards & Reporting |
+| TypeScript · JavaScript | HTML · CSS | Node.js · REST APIs | Git · GitHub · VS Code |
+| SQL | React | PostgreSQL | DSA · Problem Solving |
 
 <div align="center">
 
@@ -44,40 +42,60 @@ Like Charizard, I'm a work in progress on the way to my final form: every projec
 
 ---
 
-### 🚀 Featured Projects
+### 📖 Pokédex: My Projects
 
-| 🛡️ [BalKavach-AI](https://github.com/vaibhavmishra-sde/BalKavach-AI)<br>**AI-Powered Child Safety & Parental Monitoring Platform**<br>A platform built around a simple idea: give parents better visibility into their children's online world and use AI to flag what actually matters, so keeping kids safe doesn't mean reading every message.<br>**Stack:** HTML · AI **Links:** [💻 Repo](https://github.com/vaibhavmishra-sde/BalKavach-AI) |
-| :--- |
-| 💰 [Financial Analytics Dashboard](https://github.com/vaibhavmishra-sde/Financial-Analytics-Dashboard)<br>**End-to-end financial reporting**<br>A complete analytics pipeline: financial data is stored and queried with SQL and PostgreSQL, then shaped into clear Power BI dashboards and Excel reports that make trends and performance easy to read at a glance.<br>**Stack:** SQL · PostgreSQL · Power BI · Excel **Links:** [💻 Repo](https://github.com/vaibhavmishra-sde/Financial-Analytics-Dashboard) |
-| 🏠 [Airbnb Global Performance Dashboard](https://github.com/vaibhavmishra-sde/AirBnb_Global_Performance_Dashboard)<br>**Power BI deep-dive (forked and worked through)**<br>An end-to-end Power BI project focused on real analytical thinking: data modeling, DAX measures, Pareto analysis and seasonal trends, used to sharpen my business-intelligence fundamentals.<br>**Stack:** Power BI · DAX · Data Modeling **Links:** [💻 Repo](https://github.com/vaibhavmishra-sde/AirBnb_Global_Performance_Dashboard) |
-| 🌐 [Portfolio](https://github.com/vaibhavmishra-sde/Portfolio)<br>**Personal portfolio website**<br>My home on the web: a TypeScript-built site that showcases my projects and skills in one place.<br>**Stack:** TypeScript **Links:** [💻 Repo](https://github.com/vaibhavmishra-sde/Portfolio) |
-| 📊 [VaibhavMishra-analytics](https://github.com/vaibhavmishra-sde/VaibhavMishra-analytics)<br>**Analytics workspace**<br>My space for data experiments, reports and analysis work.<br>**Links:** [💻 Repo](https://github.com/vaibhavmishra-sde/VaibhavMishra-analytics) |
+> *Each project is a Pokédex entry: its type, its signature moves, and where to find it in the wild.*
+
+#### `#001` · BalKavach-AI
+![Type](https://img.shields.io/badge/TYPE-AI%20%2F%20Safety-F08030?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Rarity](https://img.shields.io/badge/RARITY-Legendary-FFCC33?style=flat-square)
+
+**An AI-powered child safety and parental monitoring platform.** Built around the idea that keeping kids safe online shouldn't mean watching their every move: AI helps surface what actually matters to parents.
+**Signature moves:** `AI Monitoring` · `Parental Controls` · `Safety Alerts`
+[💻 View Repo](https://github.com/vaibhavmishra-sde/BalKavach-AI)
 
 ---
 
-### 🌋 Evolution Line
+#### `#002` · Portfolio
+![Type](https://img.shields.io/badge/TYPE-Web-3178C6?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rarity](https://img.shields.io/badge/RARITY-Rare-9B59B6?style=flat-square)
+
+**My personal home on the web,** built with TypeScript to showcase my projects, skills and journey in one place.
+**Signature moves:** `Responsive Layout` · `Typed Components` · `Project Showcase`
+[💻 View Repo](https://github.com/vaibhavmishra-sde/Portfolio)
+
+---
+
+#### `#003` · Financial Analytics Dashboard
+![Type](https://img.shields.io/badge/TYPE-Data-336791?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-SQL%20%C2%B7%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Rarity](https://img.shields.io/badge/RARITY-Rare-9B59B6?style=flat-square)
+
+**An end-to-end financial analytics project** that stores and queries data with SQL and PostgreSQL, then presents it through Power BI and Excel reports.
+**Signature moves:** `SQL Queries` · `Data Modeling` · `Reporting`
+[💻 View Repo](https://github.com/vaibhavmishra-sde/Financial-Analytics-Dashboard)
+
+---
+
+#### `#004` · Airbnb Global Performance
+![Type](https://img.shields.io/badge/TYPE-Data-336791?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-Power%20BI%20%C2%B7%20DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Rarity](https://img.shields.io/badge/RARITY-Uncommon-2ECC71?style=flat-square)
+
+**A forked project I worked through to sharpen my analytical thinking:** data modeling, DAX, Pareto analysis and seasonal trends.
+**Signature moves:** `DAX` · `Pareto Analysis` · `Trend Analysis`
+[💻 View Repo](https://github.com/vaibhavmishra-sde/AirBnb_Global_Performance_Dashboard)
+
+---
+
+### 🏅 Gym Badge Roadmap
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="110" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png" width="110" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="110" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png" width="110" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png" width="110" /> |
-| :---: | :---: | :---: | :---: | :---: |
-| **Charmander**<br>Learn the fundamentals | **Charmeleon**<br>Build real projects | **Charizard**<br>Master DSA & system design | **Mega X**<br>Ship full-stack products | **Mega Y**<br>Land a top SDE role |
-| ✅ | ✅ | 🔄 | 🔄 | 🔄 |
+| Badge | Gym | Challenge | Status |
+| :---: | :--- | :--- | :---: |
+| 🪨 | **Boulder Badge** | Programming fundamentals and Git | ✅ Earned |
+| 💧 | **Cascade Badge** | Build and ship real projects | ✅ Earned |
+| ⚡ | **Thunder Badge** | Full-stack development with TypeScript | 🔄 In battle |
+| 🌈 | **Rainbow Badge** | DSA and problem solving | 🔄 In battle |
+| 🔥 | **Volcano Badge** | System design and databases | 🔄 Training |
+| 🏆 | **Pokémon League** | Land a top-tier SDE role | 🎯 Final goal |
 
 </div>
-
----
-
-### 🎯 Current Mission
-
-| Status | Goal |
-| :---: | :--- |
-| ✅ | Learn programming and data fundamentals |
-| ✅ | Build dashboards and real-world projects |
-| 🔄 | Deepen DSA & system design |
-| 🔄 | Build more full-stack and AI projects |
-| 🔄 | Contribute to open source |
-| 🔄 | Land a top-tier SDE role |
 
 ---
 
@@ -100,8 +118,6 @@ Like Charizard, I'm a work in progress on the way to my final form: every projec
 
 [![GitHub](https://img.shields.io/badge/GITHUB-F08030?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vaibhavmishra-sde)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-F08030?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/YOUR-LINKEDIN)
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="90" alt="Charizard" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc33,50:f08030,100:7a1f00&height=100&section=footer" width="100%" />
 
