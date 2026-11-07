@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f00,50:f08030,100:ffcc33&height=220&section=header&text=VAIBHAV%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-<!-- Upload your Ash Ketchum image to this repo at assets/ash-ketchum.png (or paste any direct image URL in src below) -->
 <img src="https://github.com/vaibhavmishra-sde/vaibhavmishra-sde/raw/main/ash-ketchum.png" height="150" alt="Ash Ketchum" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="130" alt="Charizard" />
@@ -42,43 +41,94 @@ Like a trainer raising a Charmander, I'm focused on steady growth: one project, 
 
 ---
 
-### 📖 Pokédex: My Projects
+<div align="center">
 
-> *Each project is a Pokédex entry: its type, its signature moves, and where to find it in the wild.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1f00,50:f08030,100:ffcc33&height=70&section=header&text=%E2%9A%94%EF%B8%8F%20BATTLE%20ARENA%20%E2%9A%94%EF%B8%8F&fontSize=32&fontColor=ffffff" width="100%" />
 
-#### `#001` · BalKavach-AI
-![Type](https://img.shields.io/badge/TYPE-AI%20%2F%20Safety-F08030?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Rarity](https://img.shields.io/badge/RARITY-Legendary-FFCC33?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=FFCC33&center=true&vCenter=true&width=700&lines=A+wild+project+appeared!;Choose+your+challenger...;Trainer+Vaibhav+sent+out+his+best+work!" alt="Battle text" />
 
-**An AI-powered child safety and parental monitoring platform.** Built around the idea that keeping kids safe online shouldn't mean watching their every move: AI helps surface what actually matters to parents.
-**Signature moves:** `AI Monitoring` · `Parental Controls` · `Safety Alerts`
-[💻 View Repo](https://github.com/vaibhavmishra-sde/BalKavach-AI)
+<br/><br/>
 
----
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-#### `#002` · Portfolio
-![Type](https://img.shields.io/badge/TYPE-Web-3178C6?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rarity](https://img.shields.io/badge/RARITY-Rare-9B59B6?style=flat-square)
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" width="150" alt="Blastoise" />
 
-**My personal home on the web,** built with TypeScript to showcase my projects, skills and journey in one place.
-**Signature moves:** `Responsive Layout` · `Typed Components` · `Project Showcase`
-[💻 View Repo](https://github.com/vaibhavmishra-sde/Portfolio)
+### 🛡️ BalKavach-AI
 
----
+![Type](https://img.shields.io/badge/TYPE-AI%20%C2%B7%20SAFETY-6890F0?style=flat-square) ![Rarity](https://img.shields.io/badge/RARITY-LEGENDARY-FFCC33?style=flat-square)
 
-#### `#003` · Financial Analytics Dashboard
-![Type](https://img.shields.io/badge/TYPE-Data-336791?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-SQL%20%C2%B7%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Rarity](https://img.shields.io/badge/RARITY-Rare-9B59B6?style=flat-square)
+AI-powered child safety and parental monitoring platform, built so parents can protect kids online without watching their every move.
 
-**An end-to-end financial analytics project** that stores and queries data with SQL and PostgreSQL, then presents it through Power BI and Excel reports.
-**Signature moves:** `SQL Queries` · `Data Modeling` · `Reporting`
-[💻 View Repo](https://github.com/vaibhavmishra-sde/Financial-Analytics-Dashboard)
+![ATK](https://img.shields.io/badge/ATK-AI-E74C3C?style=flat-square) ![DEF](https://img.shields.io/badge/DEF-Safety-3498DB?style=flat-square) ![STACK](https://img.shields.io/badge/STACK-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
----
+⚡ `AI Monitoring` · `Parental Controls` · `Safety Alerts`
 
-#### `#004` · Airbnb Global Performance
-![Type](https://img.shields.io/badge/TYPE-Data-336791?style=flat-square) ![Stack](https://img.shields.io/badge/STACK-Power%20BI%20%C2%B7%20DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Rarity](https://img.shields.io/badge/RARITY-Uncommon-2ECC71?style=flat-square)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-F08030?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vaibhavmishra-sde/BalKavach-AI)
 
-**A forked project I worked through to sharpen my analytical thinking:** data modeling, DAX, Pareto analysis and seasonal trends.
-**Signature moves:** `DAX` · `Pareto Analysis` · `Trend Analysis`
-[💻 View Repo](https://github.com/vaibhavmishra-sde/AirBnb_Global_Performance_Dashboard)
+</td>
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150" alt="Pikachu" />
+
+### 🌐 Portfolio
+
+![Type](https://img.shields.io/badge/TYPE-WEB%20%C2%B7%20FRONTEND-F8D030?style=flat-square&labelColor=555) ![Rarity](https://img.shields.io/badge/RARITY-RARE-9B59B6?style=flat-square)
+
+My personal home on the web, built with TypeScript to showcase my projects, skills and journey in one place.
+
+![ATK](https://img.shields.io/badge/ATK-Design-E74C3C?style=flat-square) ![SPD](https://img.shields.io/badge/SPD-Fast-F1C40F?style=flat-square) ![STACK](https://img.shields.io/badge/STACK-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+⚡ `Responsive Layout` · `Typed Components` · `Project Showcase`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-F08030?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vaibhavmishra-sde/Portfolio)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png" width="150" alt="Meowth" />
+
+### 💰 Financial Analytics Dashboard
+
+![Type](https://img.shields.io/badge/TYPE-DATA%20%C2%B7%20FINANCE-A8A878?style=flat-square) ![Rarity](https://img.shields.io/badge/RARITY-RARE-9B59B6?style=flat-square)
+
+End-to-end financial analytics: data stored and queried with SQL and PostgreSQL, then presented through Power BI and Excel reports.
+
+![ATK](https://img.shields.io/badge/ATK-SQL-E74C3C?style=flat-square) ![DEF](https://img.shields.io/badge/DEF-Accuracy-3498DB?style=flat-square) ![STACK](https://img.shields.io/badge/STACK-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+⚡ `SQL Queries` · `Data Modeling` · `Reporting`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-F08030?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vaibhavmishra-sde/Financial-Analytics-Dashboard)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png" width="150" alt="Lapras" />
+
+### 🏠 Airbnb Global Performance
+
+![Type](https://img.shields.io/badge/TYPE-DATA%20%C2%B7%20ANALYSIS-98D8D8?style=flat-square&labelColor=555) ![Rarity](https://img.shields.io/badge/RARITY-UNCOMMON-2ECC71?style=flat-square)
+
+A forked project I worked through to sharpen my analytical thinking: data modeling, DAX, Pareto analysis and seasonal trends.
+
+![ATK](https://img.shields.io/badge/ATK-DAX-E74C3C?style=flat-square) ![SPD](https://img.shields.io/badge/SPD-Insights-F1C40F?style=flat-square) ![STACK](https://img.shields.io/badge/STACK-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+⚡ `DAX` · `Pareto Analysis` · `Trend Analysis`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-F08030?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vaibhavmishra-sde/AirBnb_Global_Performance_Dashboard)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="90" alt="Charizard" />
+
+**🔥 Gotta ship 'em all 🔥**
+
+</div>
 
 ---
 
