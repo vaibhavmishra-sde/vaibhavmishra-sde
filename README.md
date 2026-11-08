@@ -155,10 +155,10 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/profile-summary-card-output/radical/3-stats.svg" width="48%" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavmishra-sde&theme=radical" width="48%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhavmishra-sde&theme=radical" width="48%" alt="Top languages" />
 
-<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/profile-summary-card-output/radical/0-profile-details.svg" width="60%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavmishra-sde&theme=radical" width="60%" alt="Profile details" />
 
 <img src="https://streak-stats.demolab.com/?user=vaibhavmishra-sde&theme=radical&hide_border=true&background=1a0f0a&ring=f08030&fire=ff6b1a&currStreakLabel=f08030&currStreakNum=f5e6d3&sideNums=f5e6d3&sideLabels=ffcc33&dates=c9a98c" height="170" alt="GitHub streak" />
 
