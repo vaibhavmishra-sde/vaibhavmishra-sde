@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f00,50:f08030,100:ffcc33&height=220&section=header&text=VAIBHAV%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-<img align="middle" src="https://github.com/vaibhavmishra-sde/vaibhavmishra-sde/raw/main/ash-ketchum.png" height="190" alt="Ash Ketchum" />
+<img align="middle" src="https://github.com/vaibhavmishra-sde/vaibhavmishra-sde/raw/main/ash-ketchum.png?v=2" height="190" alt="Ash Ketchum" />
 &nbsp;&nbsp;&nbsp;
 <img align="middle" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="130" alt="Charizard" />
 
