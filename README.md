@@ -24,9 +24,53 @@
 
 ### 📍 About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=F08030&center=true&vCenter=true&width=750&lines=%F0%9F%93%9F+Accessing+Pok%C3%A9dex...;%F0%9F%94%8E+Trainer+found%3A+VAIBHAV+MISHRA;%E2%9A%99%EF%B8%8F+Class%3A+Software+Developer;%F0%9F%94%A5+Status%3A+Evolving+every+single+day" alt="Pokedex scan" />
+
+</div>
+
+<br/>
+
+#### 📟 Pokédex Entry
+
+```text
+┌──────────────────────────────────────────────┐
+│  NAME      : VAIBHAV MISHRA                  │
+│  TYPE      : Software Developer / Builder    │
+│  STARTER   : Charmander  →  Charizard        │
+│  HABITAT   : VS Code, GitHub and late-night  │
+│              debugging sessions              │
+│  ABILITY   : Turns ideas into running code   │
+│  SPECIAL   : Learns best by building         │
+└──────────────────────────────────────────────┘
+```
+
 I'm a software developer who learns by building. I enjoy taking an idea from a rough sketch to something that actually runs: designing the logic, writing the code, and polishing it until it's ready to show off. My projects range from an AI-powered child-safety platform to a personal portfolio site and SQL-backed data tools, and every one of them taught me something new about writing better software.
 
 Like a trainer raising a Charmander, I'm focused on steady growth: one project, one bug fix and one level at a time.
+
+#### 🧬 Trainer DNA
+
+```js
+const vaibhav = {
+  name: "Vaibhav Mishra",
+  role: "Software Developer",
+  starter: "Charmander (now evolving into Charizard 🔥)",
+  superpower: "Turning ideas into working software",
+  currentlyTraining: ["TypeScript", "SQL & PostgreSQL", "DSA & System Design"],
+  favoriteMove: "git commit -m 'Flamethrower!'",
+  goal: "Land a top-tier SDE role",
+  motto: "Code. Build. Learn. Evolve."
+};
+```
+
+#### ⚡ Wild Facts
+
+- 🔥 Every project I build is another level gained.
+- 🐛 I treat every bug like a wild Pokémon: I catch it, study it, and never let it get away twice.
+- 🎯 My mission: evolve from Charmander to a fully evolved SDE.
+- 🚀 Always up for a battle: open to collaborating on interesting projects.
 
 **Currently focused on:** full-stack development with TypeScript, working with databases (SQL and PostgreSQL), and strengthening DSA and system design for SDE roles.
 
