@@ -29,7 +29,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=600&color=FF4500&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I%27m+Vaibhav+Mishra+%F0%9F%91%8B;V+A+I+B+H+A+V+++M+I+S+H+R+A;Software+Developer+%F0%9F%94%A5;Trainer+of+Code+%E2%9A%A1" alt="Name animation" />
 
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=F08030&center=true&vCenter=true&width=750&lines=%F0%9F%93%9F+Accessing+Pok%C3%A9dex...;%F0%9F%94%8E+Trainer+found%3A+VAIBHAV+MISHRA;%E2%9A%99%EF%B8%8F+Class%3A+Software+Developer;%F0%9F%94%A5+Status%3A+Evolving+every+single+day" alt="Pokedex scan" />
 
 </div>
