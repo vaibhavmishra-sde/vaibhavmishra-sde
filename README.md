@@ -155,10 +155,12 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavmishra-sde&show_icons=true&theme=radical&hide_border=true&bg_color=1a0f0a&title_color=f08030&icon_color=ffcc33&text_color=f5e6d3&ring_color=f08030" height="170" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmishra-sde&theme=radical&hide_border=true&background=1a0f0a&ring=f08030&fire=ff6b1a&currStreakLabel=f08030&currStreakNum=f5e6d3&sideNums=f5e6d3&sideLabels=ffcc33&dates=c9a98c" height="170" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/profile-summary-card-output/radical/3-stats.svg" width="48%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" alt="Top languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmishra-sde&layout=compact&theme=radical&hide_border=true&bg_color=1a0f0a&title_color=f08030&text_color=f5e6d3" height="140" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/vaibhavmishra-sde/vaibhavmishra-sde/main/profile-summary-card-output/radical/0-profile-details.svg" width="60%" alt="Profile details" />
+
+<img src="https://streak-stats.demolab.com/?user=vaibhavmishra-sde&theme=radical&hide_border=true&background=1a0f0a&ring=f08030&fire=ff6b1a&currStreakLabel=f08030&currStreakNum=f5e6d3&sideNums=f5e6d3&sideLabels=ffcc33&dates=c9a98c" height="170" alt="GitHub streak" />
 
 </div>
 
