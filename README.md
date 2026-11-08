@@ -26,6 +26,12 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7a1f00,50:f08030,100:ffcc33&height=130&text=VAIBHAV%20MISHRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=50&stroke=ffcc33&strokeWidth=2" width="100%" alt="Vaibhav Mishra" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=600&color=FF4500&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I%27m+Vaibhav+Mishra+%F0%9F%91%8B;V+A+I+B+H+A+V+++M+I+S+H+R+A;Software+Developer+%F0%9F%94%A5;Trainer+of+Code+%E2%9A%A1" alt="Name animation" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=F08030&center=true&vCenter=true&width=750&lines=%F0%9F%93%9F+Accessing+Pok%C3%A9dex...;%F0%9F%94%8E+Trainer+found%3A+VAIBHAV+MISHRA;%E2%9A%99%EF%B8%8F+Class%3A+Software+Developer;%F0%9F%94%A5+Status%3A+Evolving+every+single+day" alt="Pokedex scan" />
 
 </div>
@@ -190,19 +196,19 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="90" alt="Charizard" /><br/>
-
+<b>Charizard</b><br/>
 <img src="https://img.shields.io/badge/LEAD-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-65-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" height="70" alt="Pikachu" /><br/>
-
+<b>Pikachu</b><br/>
 <img src="https://img.shields.io/badge/SPEED-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Lv.-60-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" height="90" alt="Blastoise" /><br/>
-
+<b>Blastoise</b><br/>
 <img src="https://img.shields.io/badge/TANK-SQL%20%C2%B7%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-62-F08030?style=flat-square" />
 </td>
@@ -210,19 +216,19 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/3.gif" height="90" alt="Venusaur" /><br/>
-
+<b>Venusaur</b><br/>
 <img src="https://img.shields.io/badge/GROWTH-React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Lv.-55-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" height="80" alt="Gengar" /><br/>
-
+<b>Gengar</b><br/>
 <img src="https://img.shields.io/badge/STEALTH-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-50-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" height="90" alt="Dragonite" /><br/>
-
+<b>Dragonite</b><br/>
 <img src="https://img.shields.io/badge/POWER-DSA%20%C2%B7%20Problem%20Solving-E74C3C?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/Lv.-58-F08030?style=flat-square" />
 </td>
