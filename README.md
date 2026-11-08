@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f00,50:f08030,100:ffcc33&height=220&section=header&text=VAIBHAV%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-<img src="https://github.com/vaibhavmishra-sde/vaibhavmishra-sde/raw/main/ash-ketchum.png" height="150" alt="Ash Ketchum" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="130" alt="Charizard" />
+<img align="middle" src="https://github.com/vaibhavmishra-sde/vaibhavmishra-sde/raw/main/ash-ketchum.png" height="130" alt="Ash Ketchum" /><img align="middle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1800&pause=500&color=FF4500&vCenter=true&width=150&height=50&lines=%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5" alt="Flamethrower" /><img align="middle" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="110" alt="Charizard" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=700&color=FF4500&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+FLAMETHROWER%21+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;Char-char%21+This+is+VAIBHAV+MISHRA%21;%F0%9F%94%A5+Software+Developer+%F0%9F%94%A5" alt="Charizard says: I am Vaibhav Mishra" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=FF4500&center=true&vCenter=true&width=800&lines=Char-char%21+Flamethrower%21+%F0%9F%94%A5;This+is+VAIBHAV+MISHRA%21;Software+Developer+%F0%9F%94%A5" alt="Charizard says: this is Vaibhav Mishra" />
 
 <a href="https://github.com/vaibhavmishra-sde">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F08030&center=true&vCenter=true&width=850&lines=Software+Developer;Building+clean%2C+fast+and+reliable+software+%F0%9F%94%A5;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+SQL;Gotta+ship+%27em+all" alt="Typing SVG" />
