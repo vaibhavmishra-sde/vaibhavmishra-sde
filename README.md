@@ -190,19 +190,19 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="90" alt="Charizard" /><br/>
-<b>Charizard</b><br/>
+
 <img src="https://img.shields.io/badge/LEAD-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-65-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" height="70" alt="Pikachu" /><br/>
-<b>Pikachu</b><br/>
+
 <img src="https://img.shields.io/badge/SPEED-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Lv.-60-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" height="90" alt="Blastoise" /><br/>
-<b>Blastoise</b><br/>
+
 <img src="https://img.shields.io/badge/TANK-SQL%20%C2%B7%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-62-F08030?style=flat-square" />
 </td>
@@ -210,19 +210,19 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/3.gif" height="90" alt="Venusaur" /><br/>
-<b>Venusaur</b><br/>
+
 <img src="https://img.shields.io/badge/GROWTH-React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Lv.-55-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" height="80" alt="Gengar" /><br/>
-<b>Gengar</b><br/>
+
 <img src="https://img.shields.io/badge/STEALTH-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-50-F08030?style=flat-square" />
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" height="90" alt="Dragonite" /><br/>
-<b>Dragonite</b><br/>
+
 <img src="https://img.shields.io/badge/POWER-DSA%20%C2%B7%20Problem%20Solving-E74C3C?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/Lv.-58-F08030?style=flat-square" />
 </td>
