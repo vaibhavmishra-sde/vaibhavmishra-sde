@@ -6,6 +6,8 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="130" alt="Charizard" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=700&color=FF4500&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+FLAMETHROWER%21+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;Char-char%21+This+is+VAIBHAV+MISHRA%21;%F0%9F%94%A5+Software+Developer+%F0%9F%94%A5" alt="Charizard says: I am Vaibhav Mishra" />
+
 <a href="https://github.com/vaibhavmishra-sde">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F08030&center=true&vCenter=true&width=850&lines=Software+Developer;Building+clean%2C+fast+and+reliable+software+%F0%9F%94%A5;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+SQL;Gotta+ship+%27em+all" alt="Typing SVG" />
 </a>
