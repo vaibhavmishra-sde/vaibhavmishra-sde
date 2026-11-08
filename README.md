@@ -26,8 +26,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7a1f00,50:f08030,100:ffcc33&height=130&text=VAIBHAV%20MISHRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=50&stroke=ffcc33&strokeWidth=2" width="100%" alt="Vaibhav Mishra" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=600&color=FF4500&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I%27m+Vaibhav+Mishra+%F0%9F%91%8B;V+A+I+B+H+A+V+++M+I+S+H+R+A;Software+Developer+%F0%9F%94%A5;Trainer+of+Code+%E2%9A%A1" alt="Name animation" />
 
 <br/>
