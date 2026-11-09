@@ -193,7 +193,7 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" height="90" alt="Charizard" /><br/>
-<b>Charizard</b><br/>
+
 <img src="https://img.shields.io/badge/LEAD-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-65-F08030?style=flat-square" />
 </td>
