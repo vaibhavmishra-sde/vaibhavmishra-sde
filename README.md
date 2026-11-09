@@ -213,7 +213,7 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/3.gif" height="90" alt="Venusaur" /><br/>
-<b>Venusaur</b><br/>
+
 <img src="https://img.shields.io/badge/GROWTH-React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Lv.-55-F08030?style=flat-square" />
 </td>
