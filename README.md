@@ -205,7 +205,7 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" height="90" alt="Blastoise" /><br/>
-<b>Blastoise</b><br/>
+
 <img src="https://img.shields.io/badge/TANK-SQL%20%C2%B7%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-62-F08030?style=flat-square" />
 </td>
