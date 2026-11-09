@@ -199,7 +199,7 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" height="70" alt="Pikachu" /><br/>
-<b>Pikachu</b><br/>
+
 <img src="https://img.shields.io/badge/SPEED-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/Lv.-60-F08030?style=flat-square" />
 </td>
