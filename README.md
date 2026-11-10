@@ -225,7 +225,7 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" height="90" alt="Dragonite" /><br/>
-<b>Dragonite</b><br/>
+
 <img src="https://img.shields.io/badge/POWER-DSA%20%C2%B7%20Problem%20Solving-E74C3C?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/Lv.-58-F08030?style=flat-square" />
 </td>
