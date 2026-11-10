@@ -219,7 +219,7 @@ A forked project I worked through to sharpen my analytical thinking: data modeli
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" height="80" alt="Gengar" /><br/>
-<b>Gengar</b><br/>
+
 <img src="https://img.shields.io/badge/STEALTH-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Lv.-50-F08030?style=flat-square" />
 </td>
