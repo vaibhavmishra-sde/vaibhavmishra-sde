@@ -58,7 +58,6 @@ Like a trainer raising a Charmander, I'm focused on steady growth: one project, 
 const vaibhav = {
   name: "Vaibhav Mishra",
   role: "Software Developer",
-  starter: "Charmander (now evolving into Charizard 🔥)",
   superpower: "Turning ideas into working software",
   currentlyTraining: ["TypeScript", "SQL & PostgreSQL", "DSA & System Design"],
   favoriteMove: "git commit -m 'Flamethrower!'",
