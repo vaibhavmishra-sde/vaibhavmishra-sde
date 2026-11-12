@@ -41,7 +41,6 @@
 ┌──────────────────────────────────────────────┐
 │  NAME      : VAIBHAV MISHRA                  │
 │  TYPE      : Software Developer / Builder    │
-│  STARTER   : Charmander  →  Charizard        │
 │  HABITAT   : VS Code, GitHub and late-night  │
 │              debugging sessions              │
 │  ABILITY   : Turns ideas into running code   │
