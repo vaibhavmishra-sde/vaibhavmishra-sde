@@ -11,7 +11,6 @@
 <a href="https://github.com/vaibhavmishra-sde">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F08030&center=true&vCenter=true&width=850&lines=Software+Developer;Building+clean%2C+fast+and+reliable+software+%F0%9F%94%A5;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+SQL;Gotta+ship+%27em+all" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
