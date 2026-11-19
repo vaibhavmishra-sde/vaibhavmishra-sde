@@ -8,6 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=FF4500&center=true&vCenter=true&width=800&lines=Ash%3A+Go%2C+Charizard%21+I+choose+you%21;Char-char%21+Charizard+appears%21;This+is+VAIBHAV+MISHRA;Software+Developer" alt="Ash calls out Charizard: this is Vaibhav Mishra" />
 
+
 <a href="https://github.com/vaibhavmishra-sde">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F08030&center=true&vCenter=true&width=850&lines=Software+Developer;Building+clean%2C+fast+and+reliable+software+%F0%9F%94%A5;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+SQL;Gotta+ship+%27em+all" alt="Typing SVG" />
 </a>
